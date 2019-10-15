@@ -20,7 +20,7 @@ cd passwordGenerator
 python passwordGenerator.py
 ```
 ## Screenshot
-<img src = "passwordGenerators.png" alt="Screenshot" width = "80%">
+<img src = "passwordGenerators.png" alt="Screenshot" width = "50%">
 
 ## Feature
 * [x] Set Length
